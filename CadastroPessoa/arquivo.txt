@@ -1,0 +1,4 @@
+Nome: Nathan
+Idade: 23
+Estado: SC
+----------------------
